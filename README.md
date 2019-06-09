@@ -10,4 +10,4 @@ A template to create a PHP package.
 
 ## Note
 
-This package template is inspired by @marcelpociot and the [tweet](https://twitter.com/driesvints/status/1136998352191709185) from @driesvints. 
+This package template is inspired by the [PHP Package Development](https://phppackagedevelopment.com) course by [@marcelpociot](https://twitter.com/marcelpociot) and the [tweet](https://twitter.com/driesvints/status/1136998352191709185) from [@driesvints](https://twitter.com/driesvints). 
